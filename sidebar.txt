@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[raw:home|Door43 (raw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-raw|d43-raw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-raw/archive/master.zip|d43-raw.zip]]
+
+**Recent Changes**
+{{changes>ns = raw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/raw|Ethnologue data]]
+
